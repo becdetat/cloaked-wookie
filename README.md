@@ -1,4 +1,4 @@
 cloaked-wookie
 ==============
 
-Cloaked Wookie. A business card organiser for iPhone and iPad.
+Cloaked Wookie. A guitar tabulature reader with Dropbox integration for iPhone and iPad.
