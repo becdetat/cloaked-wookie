@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloakedWookie.iOS", "src\CloakedWookie.iOS\CloakedWookie.iOS.csproj", "{041BD8CC-7B88-4861-867B-AC4136162859}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloakedWookie.Data", "src\CloakedWookie.Data\CloakedWookie.Data.csproj", "{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloakedWookie.Tests", "src\CloakedWookie.Tests\CloakedWookie.Tests.csproj", "{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -25,6 +29,30 @@ Global
 		{041BD8CC-7B88-4861-867B-AC4136162859}.Release|iPhone.Build.0 = Release|iPhone
 		{041BD8CC-7B88-4861-867B-AC4136162859}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{041BD8CC-7B88-4861-867B-AC4136162859}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}.Release|iPhone.Build.0 = Release|Any CPU
+		{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}.Release|iPhone.Build.0 = Release|Any CPU
+		{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{C2F03F69-E8E8-4D5B-8CE6-85A0CEF957A4}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = src\CloakedWookie.iOS\CloakedWookie.iOS.csproj
