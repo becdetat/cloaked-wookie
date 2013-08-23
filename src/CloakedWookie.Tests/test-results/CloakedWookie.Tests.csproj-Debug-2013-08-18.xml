@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <UnitTestResult>
+      <TestDate>2013-08-18T15:24:54</TestDate>
+      <Status />
+      <Passed>1</Passed>
+      <Errors>1</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>One or more child tests had errors</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2013-08-18T15:25:40</TestDate>
+      <Status />
+      <Passed>1</Passed>
+      <Errors>1</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>One or more child tests had errors</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2013-08-18T15:28:20</TestDate>
+      <Status />
+      <Passed>1</Passed>
+      <Errors>1</Errors>
+      <Failures>0</Failures>
+      <Inconclusive>0</Inconclusive>
+      <NotRunnable>0</NotRunnable>
+      <Skipped>0</Skipped>
+      <Ignored>0</Ignored>
+      <Time />
+      <Message>One or more child tests had errors</Message>
+    </UnitTestResult>
+  </Results>
+  <Tests>
+    <TestRecord Name="CloakedWookie">
+      <Results>
+        <UnitTestResult>
+          <TestDate>2013-08-18T15:24:54</TestDate>
+          <Status />
+          <Passed>1</Passed>
+          <Errors>1</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>One or more child tests had errors</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2013-08-18T15:25:40</TestDate>
+          <Status />
+          <Passed>1</Passed>
+          <Errors>1</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>One or more child tests had errors</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2013-08-18T15:28:20</TestDate>
+          <Status />
+          <Passed>1</Passed>
+          <Errors>1</Errors>
+          <Failures>0</Failures>
+          <Inconclusive>0</Inconclusive>
+          <NotRunnable>0</NotRunnable>
+          <Skipped>0</Skipped>
+          <Ignored>0</Ignored>
+          <Time />
+          <Message>One or more child tests had errors</Message>
+        </UnitTestResult>
+      </Results>
+      <Tests>
+        <TestRecord Name="Tests">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2013-08-18T15:24:54</TestDate>
+              <Status />
+              <Passed>1</Passed>
+              <Errors>1</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>One or more child tests had errors</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2013-08-18T15:25:40</TestDate>
+              <Status />
+              <Passed>1</Passed>
+              <Errors>1</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>One or more child tests had errors</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2013-08-18T15:28:20</TestDate>
+              <Status />
+              <Passed>1</Passed>
+              <Errors>1</Errors>
+              <Failures>0</Failures>
+              <Inconclusive>0</Inconclusive>
+              <NotRunnable>0</NotRunnable>
+              <Skipped>0</Skipped>
+              <Ignored>0</Ignored>
+              <Time />
+              <Message>One or more child tests had errors</Message>
+            </UnitTestResult>
+          </Results>
+          <Tests>
+            <TestRecord Name="ItShouldHaveTests">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2013-08-18T15:24:54</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.02ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2013-08-18T15:25:40</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.02ms</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2013-08-18T15:28:20</TestDate>
+                  <Status />
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.02ms</Message>
+                </UnitTestResult>
+              </Results>
+              <Tests>
+                <TestRecord Name="AndItDoes">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2013-08-18T15:24:54</TestDate>
+                      <Status />
+                      <Passed>1</Passed>
+                      <Errors>0</Errors>
+                      <Failures>0</Failures>
+                      <Inconclusive>0</Inconclusive>
+                      <NotRunnable>0</NotRunnable>
+                      <Skipped>0</Skipped>
+                      <Ignored>0</Ignored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.02ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2013-08-18T15:25:40</TestDate>
+                      <Status />
+                      <Passed>1</Passed>
+                      <Errors>0</Errors>
+                      <Failures>0</Failures>
+                      <Inconclusive>0</Inconclusive>
+                      <NotRunnable>0</NotRunnable>
+                      <Skipped>0</Skipped>
+                      <Ignored>0</Ignored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.01ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2013-08-18T15:28:20</TestDate>
+                      <Status />
+                      <Passed>1</Passed>
+                      <Errors>0</Errors>
+                      <Failures>0</Failures>
+                      <Inconclusive>0</Inconclusive>
+                      <NotRunnable>0</NotRunnable>
+                      <Skipped>0</Skipped>
+                      <Ignored>0</Ignored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.02ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                  <Tests />
+                </TestRecord>
+              </Tests>
+            </TestRecord>
+            <TestRecord Name="TestsForMessageBusImplementation">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2013-08-18T15:24:54</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>One or more child tests had errors</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2013-08-18T15:25:40</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>One or more child tests had errors</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2013-08-18T15:28:20</TestDate>
+                  <Status />
+                  <Passed>0</Passed>
+                  <Errors>1</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>One or more child tests had errors</Message>
+                </UnitTestResult>
+              </Results>
+              <Tests>
+                <TestRecord Name="ItWorks">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2013-08-18T15:24:54</TestDate>
+                      <Status />
+                      <Passed>0</Passed>
+                      <Errors>1</Errors>
+                      <Failures>0</Failures>
+                      <Inconclusive>0</Inconclusive>
+                      <NotRunnable>0</NotRunnable>
+                      <Skipped>0</Skipped>
+                      <Ignored>0</Ignored>
+                      <Time />
+                      <Message>System.TypeInitializationException : An exception was thrown by the type initializer for TinyIoC.TinyIoCContainer
+  ----&gt; System.IO.FileNotFoundException : Could not load file or assembly 'System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e' or one of its dependencies.</Message>
+                      <StackTrace>  at CloakedWookie.Tests.TestsForMessageBusImplementation.ItWorks () [0x00001] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Tests/IoC/MessageBusTests/TestsForMessageBusImplementation.cs:37 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00054] in /private/tmp/source/bockbuild-xamarin/profiles/mono-mac-xamarin-no-pcl/build-root/mono-3.2.1/mcs/class/corlib/System.Reflection/MonoMethod.cs:230 
+--FileNotFoundException
+  at TinyIoC.TinyIoCContainer+InstanceFactory..ctor (System.Type registerType, System.Type registerImplementation, System.Object instance) [0x00009] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:2519 
+  at TinyIoC.TinyIoCContainer.Register (System.Type registerType, System.Object instance) [0x0000b] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:1055 
+  at TinyIoC.TinyIoCContainer.Register[TinyIoCContainer] (TinyIoC.TinyIoCContainer instance) [0x00012] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:1177 
+  at TinyIoC.TinyIoCContainer.RegisterDefaultTypes () [0x00003] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:3014 
+  at TinyIoC.TinyIoCContainer..ctor () [0x00025] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:2897 
+  at TinyIoC.TinyIoCContainer..cctor () [0x00000] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:2829 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2013-08-18T15:25:40</TestDate>
+                      <Status />
+                      <Passed>0</Passed>
+                      <Errors>1</Errors>
+                      <Failures>0</Failures>
+                      <Inconclusive>0</Inconclusive>
+                      <NotRunnable>0</NotRunnable>
+                      <Skipped>0</Skipped>
+                      <Ignored>0</Ignored>
+                      <Time />
+                      <Message>System.TypeInitializationException : An exception was thrown by the type initializer for TinyIoC.TinyIoCContainer
+  ----&gt; System.IO.FileNotFoundException : Could not load file or assembly 'System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e' or one of its dependencies.</Message>
+                      <StackTrace>  at CloakedWookie.Tests.TestsForMessageBusImplementation.ItWorks () [0x00001] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Tests/IoC/MessageBusTests/TestsForMessageBusImplementation.cs:37 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00054] in /private/tmp/source/bockbuild-xamarin/profiles/mono-mac-xamarin-no-pcl/build-root/mono-3.2.1/mcs/class/corlib/System.Reflection/MonoMethod.cs:230 
+--FileNotFoundException
+  at TinyIoC.TinyIoCContainer+InstanceFactory..ctor (System.Type registerType, System.Type registerImplementation, System.Object instance) [0x00009] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:2519 
+  at TinyIoC.TinyIoCContainer.Register (System.Type registerType, System.Object instance) [0x0000b] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:1055 
+  at TinyIoC.TinyIoCContainer.Register[TinyIoCContainer] (TinyIoC.TinyIoCContainer instance) [0x00012] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:1177 
+  at TinyIoC.TinyIoCContainer.RegisterDefaultTypes () [0x00003] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:3014 
+  at TinyIoC.TinyIoCContainer..ctor () [0x00025] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:2897 
+  at TinyIoC.TinyIoCContainer..cctor () [0x00000] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:2829 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2013-08-18T15:28:20</TestDate>
+                      <Status />
+                      <Passed>0</Passed>
+                      <Errors>1</Errors>
+                      <Failures>0</Failures>
+                      <Inconclusive>0</Inconclusive>
+                      <NotRunnable>0</NotRunnable>
+                      <Skipped>0</Skipped>
+                      <Ignored>0</Ignored>
+                      <Time />
+                      <Message>System.TypeInitializationException : An exception was thrown by the type initializer for TinyIoC.TinyIoCContainer
+  ----&gt; System.IO.FileNotFoundException : Could not load file or assembly 'System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e' or one of its dependencies.</Message>
+                      <StackTrace>  at CloakedWookie.Tests.TestsForMessageBusImplementation.ItWorks () [0x00001] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Tests/IoC/MessageBusTests/TestsForMessageBusImplementation.cs:37 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (System.Reflection.MonoMethod,object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00054] in /private/tmp/source/bockbuild-xamarin/profiles/mono-mac-xamarin-no-pcl/build-root/mono-3.2.1/mcs/class/corlib/System.Reflection/MonoMethod.cs:230 
+--FileNotFoundException
+  at TinyIoC.TinyIoCContainer+InstanceFactory..ctor (System.Type registerType, System.Type registerImplementation, System.Object instance) [0x00009] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:2519 
+  at TinyIoC.TinyIoCContainer.Register (System.Type registerType, System.Object instance) [0x0000b] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:1055 
+  at TinyIoC.TinyIoCContainer.Register[TinyIoCContainer] (TinyIoC.TinyIoCContainer instance) [0x00012] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:1177 
+  at TinyIoC.TinyIoCContainer.RegisterDefaultTypes () [0x00003] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:3014 
+  at TinyIoC.TinyIoCContainer..ctor () [0x00025] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:2897 
+  at TinyIoC.TinyIoCContainer..cctor () [0x00000] in /Users/ben_scott/source/readify/pd/cloaked-wookie/src/CloakedWookie.Data/IoC/TinyIoC.cs:2829 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                  <Tests />
+                </TestRecord>
+              </Tests>
+            </TestRecord>
+          </Tests>
+        </TestRecord>
+      </Tests>
+    </TestRecord>
+  </Tests>
+</TestRecord>

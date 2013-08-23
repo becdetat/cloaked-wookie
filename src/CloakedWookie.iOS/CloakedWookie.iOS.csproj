@@ -93,4 +93,10 @@
     <Compile Include="AppDelegate.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\CloakedWookie.Data\CloakedWookie.Data.csproj">
+      <Project>{737E47F9-6B9A-4FB2-80C2-A0568946ACA8}</Project>
+      <Name>CloakedWookie.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>
